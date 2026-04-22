@@ -171,4 +171,4 @@ trading_bot/
 
 # Author
 
-Developed in Python as part of Binance Trading Bot Internship Assignment.
+Developed in Python as part of Binance Trading Bot.
